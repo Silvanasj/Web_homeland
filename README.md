@@ -11,3 +11,5 @@ La página web de la galería de arte de TripleTen es el quinto proyecto en el p
 - Diseño responsivo
 
 Me gustaría mejorar el cálculo de los márgenes o relleno porque se me complica calcular las medidas y tengo que usar las DevTools de Chrome para ir viendo cúanto debo poner. Por otro lado, pensé que sería más dificil modificar las medidas para el diseño responsivo pero esa misma herramienta la verdad es que si es de mucha ayuda para esto.
+
+Link: https://silvanasj.github.io/Web_homeland/
