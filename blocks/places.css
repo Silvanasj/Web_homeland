@@ -31,14 +31,14 @@
   grid-row: 2/5;
 }
 
-.stories__image-item {
+.places__image-item {
   width: 100%;
   max-height: 460px;
   box-shadow: 10px 10px 25px rgba(0, 0, 0, 0.5);
   object-fit: contain;
 }
 
-.stories__image-item:hover {
+.places__image-item:hover {
   opacity: 0.5;
 }
 
@@ -56,7 +56,11 @@
 }
 
 .places__button:hover {
-  background: linear-gradient(90deg, #0278fe 0%, #003a7b 99.98%);
+  background: linear-gradient(
+    90deg,
+    rgba(2, 120, 254, 0.25) 0%,
+    rgba(0, 58, 123, 0.25) 99.98%
+  );
 }
 
 .places__link {
